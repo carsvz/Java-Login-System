@@ -1,3 +1,5 @@
+Java Login System
+
 A simple authentication system built in pure Java (no frameworks, no GUI), designed for the console, featuring user registration, login, and file-based persistence.
 
 ✨ Features
